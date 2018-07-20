@@ -1,0 +1,14 @@
+{
+  "name": "exponentiate",
+  "version": "1.0.0",
+  "description": "Extremely simple exponentiation library to demonstrate tambling-cibot",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dean Tambling",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
