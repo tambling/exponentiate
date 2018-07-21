@@ -1,0 +1,3 @@
+commentOnPass: true
+commentOnFail: true
+commentOnError: true
